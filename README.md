@@ -4,7 +4,12 @@
 
 墨鱼手记Quan Crack：https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf
 
+X浏览器去广告规则：https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+
+coding 镜像：https://damengzhu.coding.net/p/banad/d/banad/git/raw/main/jiekouAD.txt
+
 ## TG机场频道＆节点
+
 全网最强分享：https://t.me/Jsnzk
 
 张浩分享：https://t.me/mffxznews
@@ -16,6 +21,7 @@
 duang测评博客：https://www.duangks.com/
 
 ### 🏆友链频道🏆
+
 1.柚子醋节点频道：https://t.me/yzcbpjd
 
 2.白嫖人：https://t.me/baipiaoR
