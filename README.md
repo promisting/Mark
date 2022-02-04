@@ -1,5 +1,15 @@
 ## Quantumult X配置
 
+少年歌行：https://ghproxy.com/https://raw.githubusercontent.com/sngxmini/QuanX/main/sngx2021.conf
+
+Orz：https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
+
+酷友：https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/LazyConf/QuantumultX_EDC-Lazy.conf
+
+S大：https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf
+
+神机：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf
+
 墨鱼自用QX去广告重写配置：https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/MyAdRule.conf
 
 墨鱼手记Quan Crack：https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf
