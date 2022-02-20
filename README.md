@@ -32,12 +32,12 @@ duang测评博客：https://www.duangks.com/
 
 ### 🏆友链频道🏆
 
-1.柚子醋节点频道：https://t.me/yzcbpjd
+1.白嫖节点分享：https://t.me/baipiao01
 
-2.白嫖人：https://t.me/baipiaoR
+2.白嫖党为王：https://t.me/baipiao966
 
-3.白嫖党为王：https://t.me/baipiao966
+3.周韵白嫖小分队：https://t.me/zhouyun_666
 
-4.周韵的白嫖小分队：https://t.me/zhouyun_666
+4.柚子醋节点频道：https://t.me/yzcbpjd
 
-5.白嫖节点分享：https://t.me/baipiao01
+5.白嫖人：https://t.me/baipiaoR
