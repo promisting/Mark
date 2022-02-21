@@ -36,8 +36,8 @@ duang测评博客：https://www.duangks.com/
 
 2.白嫖党为王：https://t.me/baipiao966
 
-3.周韵白嫖小分队：https://t.me/zhouyun_666
+3.白嫖人：https://t.me/baipiaoR
 
-4.柚子醋节点频道：https://t.me/yzcbpjd
+4.周韵白嫖小分队：https://t.me/zhouyun_666
 
-5.白嫖人：https://t.me/baipiaoR
+5.柚子醋节点频道：https://t.me/yzcbpjd
