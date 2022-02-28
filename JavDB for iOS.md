@@ -1,6 +1,6 @@
-[TG下载相关](https://t.me/yqc_123/1004)
+TG下载相关：https://t.me/yqc_123/1004
 
-[Crack脚本说明](https://t.me/yqc_123/1008)
+Crack脚本说明：https://t.me/yqc_123/1008
 
 自签参考：https://chuniao19.me/ios_sign.html
 
