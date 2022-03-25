@@ -10,13 +10,53 @@ S大：https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX
 
 神机：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf
 
-墨鱼自用QX去广告重写配置：https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/MyAdRule.conf
-
-墨鱼手记Quan Crack：https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf
-
 X浏览器去广告规则：https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
 coding 镜像：https://damengzhu.coding.net/p/banad/d/banad/git/raw/main/jiekouAD.txt
+
+1、QX TF更新日志
+
+https://github.com/ddgksf2013/Cuttlefish/blob/master/Profile/QX_TestFlight_Update.log
+
+2、墨鱼自用影视Web去广告
+
+https://github.com/ddgksf2013/Cuttlefish/raw/master/Html/WebAdBlock.conf
+
+3、墨鱼自用微信小程序去广告
+
+https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Applet/QuanX.conf
+
+4、墨鱼自用分流去广告
+
+https://github.com/ddgksf2013/Cuttlefish/raw/master/Filter/Mybreak.list
+
+5、墨鱼自用QX小白2.0配置
+
+https://github.com/ddgksf2013/Cuttlefish/raw/master/Profile/QuantumultX.conf
+
+6、墨鱼自用B站去广告
+
+https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/AdBlock/Bilibili.conf
+
+7、墨鱼自用酷我解锁会员权限
+
+https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockVip/Kuwo.conf
+
+8、墨鱼自用人人视频超级去广告
+
+https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockVip/Rrtv.conf
+
+9、墨鱼自用QX重写去广告
+
+https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/MyAdRule.conf
+
+10、墨鱼自用超级解锁VIP
+
+https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf
+
+11、墨鱼自用小火箭PlaneVPN
+
+https://github.com/ddgksf2013/Cuttlefish/raw/master/Server/PlaneVPN.sub
 
 ## TG机场频道＆节点
 
