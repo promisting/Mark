@@ -69,26 +69,6 @@ https://raw.githubusercontent.com/w37fhy/QuantumultX/master/w37fhy_diy.conf
 ▎Shawn配置
 https://raw.githubusercontent.com/Sonmbs/quantumult_X/main/coconut.conf
 
-## TG机场频道＆节点
-
-全网最强分享：https://t.me/Jsnzk
-
-张浩分享：https://t.me/mffxznews
-
-机场观测·白嫖无罪：https://t.me/freemason6
-
-便宜机场测速：https://t.me/cheap_proxy
-
-duang测评博客：https://www.duangks.com/
-
 ### 🏆友链频道🏆
 
-1.白嫖节点分享：https://t.me/baipiao01
-
-2.白嫖人：https://t.me/baipiaoR
-
-3.白嫖党为王：https://t.me/baipiao966
-
-4.周韵白嫖小分队：https://t.me/zhouyun_666
-
-5.柚子醋节点频道：https://t.me/yzcbpjd
+duang测评博客：https://www.duangks.com/
