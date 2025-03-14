@@ -44,3 +44,15 @@ https://raw.githubusercontent.com/Sonmbs/quantumult_X/main/coconut.conf
 ### 🏆友链频道🏆
 
 duang测评博客：https://www.duangks.com/
+
+
+https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/StartUp.conf
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf
+https://github.com/ddgksf2013/Rewrite/raw/master/Html/WebAdBlock.conf
+https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Html/General.conf
+https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.vip.js
